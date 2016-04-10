@@ -1,7 +1,8 @@
-# FakeOnline
-Simple plugin for SA:MP 0.3.7 server that allows you to adjust online player's count that displayed in the server list
+# Описание плагина FakeOnline
+Простой плагин для сервера SA:MP 0.3.7, который увеличивает колчиество игроков, и тем самым пиарит сервер.
 
-# Example
+# Как встроить в мод
+Создаем новый паблик, инклуд суем в начало мода, папку pawno закидываем из репозитория в корень сервера, затем компилируем мод
 ```pawn
 #include <FakeOnline>
 
